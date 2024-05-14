@@ -1,0 +1,7 @@
+G:\CENTRALOGIC\Sahil\Sahil_K_Assignment1\obj\Debug\Sahil_K_Assignment1.csproj.AssemblyReference.cache
+G:\CENTRALOGIC\Sahil\Sahil_K_Assignment1\obj\Debug\Sahil_K_Assignment1.csproj.CoreCompileInputs.cache
+G:\CENTRALOGIC\Sahil\Sahil_K_Assignment1\bin\Debug\Sahil_K_Assignment1.exe.config
+G:\CENTRALOGIC\Sahil\Sahil_K_Assignment1\bin\Debug\Sahil_K_Assignment1.exe
+G:\CENTRALOGIC\Sahil\Sahil_K_Assignment1\bin\Debug\Sahil_K_Assignment1.pdb
+G:\CENTRALOGIC\Sahil\Sahil_K_Assignment1\obj\Debug\Sahil_K_Assignment1.exe
+G:\CENTRALOGIC\Sahil\Sahil_K_Assignment1\obj\Debug\Sahil_K_Assignment1.pdb
