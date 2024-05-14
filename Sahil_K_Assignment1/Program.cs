@@ -20,11 +20,11 @@ namespace SimpleTaskListApp
             {
 
                 Console.WriteLine("Here are the options you can select:");
-                Console.WriteLine("0 - Exit");
                 Console.WriteLine("1 - View Task list");
                 Console.WriteLine("2 - Add to Task list");
                 Console.WriteLine("3 - Remove from Task list");
                 Console.WriteLine("4 - Update Task list");
+                Console.WriteLine("5 - Exit");
 
                 // Reading user input
                 string userInput = Console.ReadLine();
@@ -40,9 +40,6 @@ namespace SimpleTaskListApp
                 // Call appropriate method of user input
                 switch (optionId)
                 {
-                    case 0:
-                        Exit();
-                        break;
                     case 1:
                         ViewTask();
                         break;
@@ -54,6 +51,9 @@ namespace SimpleTaskListApp
                         break;
                     case 4:
                         UpdateTask();
+                        break;
+                    case 5:
+                        Exit();
                         break;
                     default:
                         Console.WriteLine("That option is not valid!");
