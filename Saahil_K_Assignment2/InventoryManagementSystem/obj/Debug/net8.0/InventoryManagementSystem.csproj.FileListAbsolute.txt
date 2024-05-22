@@ -1,0 +1,14 @@
+G:\CENTRALOGIC\Sahil\Saahil_K_Assignment2\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.exe
+G:\CENTRALOGIC\Sahil\Saahil_K_Assignment2\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.deps.json
+G:\CENTRALOGIC\Sahil\Saahil_K_Assignment2\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.runtimeconfig.json
+G:\CENTRALOGIC\Sahil\Saahil_K_Assignment2\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.dll
+G:\CENTRALOGIC\Sahil\Saahil_K_Assignment2\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.pdb
+G:\CENTRALOGIC\Sahil\Saahil_K_Assignment2\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+G:\CENTRALOGIC\Sahil\Saahil_K_Assignment2\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.AssemblyInfoInputs.cache
+G:\CENTRALOGIC\Sahil\Saahil_K_Assignment2\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.AssemblyInfo.cs
+G:\CENTRALOGIC\Sahil\Saahil_K_Assignment2\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+G:\CENTRALOGIC\Sahil\Saahil_K_Assignment2\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.dll
+G:\CENTRALOGIC\Sahil\Saahil_K_Assignment2\InventoryManagementSystem\obj\Debug\net8.0\refint\InventoryManagementSystem.dll
+G:\CENTRALOGIC\Sahil\Saahil_K_Assignment2\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.pdb
+G:\CENTRALOGIC\Sahil\Saahil_K_Assignment2\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.genruntimeconfig.cache
+G:\CENTRALOGIC\Sahil\Saahil_K_Assignment2\InventoryManagementSystem\obj\Debug\net8.0\ref\InventoryManagementSystem.dll
