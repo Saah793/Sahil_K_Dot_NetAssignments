@@ -36,7 +36,7 @@ namespace InventoryManagementSystem
         public void AddItem(Item item)
         {
             items.Add(item);
-            Console.WriteLine("Item added successfully.");
+            
         }
 
 
@@ -65,10 +65,6 @@ namespace InventoryManagementSystem
                 item.Quantity = quantity;
                 Console.WriteLine("Item updated successfully.");
             }
-            else
-            {
-                Console.WriteLine("Item not found.");
-            }
         }
 
 
@@ -78,11 +74,6 @@ namespace InventoryManagementSystem
             if (item != null)
             {
                 items.Remove(item);
-                Console.WriteLine("Item deleted successfully.");
-            }
-            else
-            {
-                Console.WriteLine("Item not found.");
             }
         }
     }
@@ -93,16 +84,15 @@ namespace InventoryManagementSystem
         {
             Inventory inventory = new Inventory();
 
-            while (true)
+            do
             {
-                Console.WriteLine("\nInventory Management System");
                 Console.WriteLine("1. Add Item");
                 Console.WriteLine("2. Display All Items");
                 Console.WriteLine("3. Find Item by ID");
                 Console.WriteLine("4. Update Item");
                 Console.WriteLine("5. Delete Item");
                 Console.Write("Choose an option: ");
-                int choice = int.Parse(Console.ReadLine());
+                int choice = int.ToInt32(Console.ReadLine());
 
                 switch (choice)
                 {
