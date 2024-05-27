@@ -92,7 +92,7 @@ namespace InventoryManagementSystem
                 Console.WriteLine("4. Update Item");
                 Console.WriteLine("5. Delete Item");
                 Console.Write("Choose an option: ");
-                int choice = int.ToInt32(Console.ReadLine());
+                int choice = (Console.ReadLine();
 
                 switch (choice)
                 {
